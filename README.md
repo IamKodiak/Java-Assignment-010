@@ -36,7 +36,7 @@ class Student{
 * Read the W3Schools page on class methods: [W3Schools Java Class Methods](https://www.w3schools.com/java/java_class_methods.asp)
 * In your own words, write a few sentences below explaining the difference between static and public methods in relation to a class.
 
-## Part 3 - Dogs
+## Part 3 - Dog
 * View the image below, and from the image, construct a Java file **Dog** that mirrors the diagrammed class and the 3 dog objects.
 ![Dog Class](images/ClassVSObject.png)
 * Your class should be named **Dog**
